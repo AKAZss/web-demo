@@ -1,0 +1,8 @@
+com\zs\service\BrandService.class
+com\zs\util\SqlSessionFactoryUtils.class
+com\zs\web\SelectByIdServlet.class
+com\zs\web\AddServlet.class
+com\zs\pojo\Brand.class
+com\zs\mapper\BrandMapper.class
+com\zs\web\SelectAllServlet.class
+com\zs\web\UpdateServlet.class
